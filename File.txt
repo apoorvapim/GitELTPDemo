@@ -1,3 +1,5 @@
 Hello World
 
 WI1 with modified changes
+
+Change: change to test rebase conflict CR2
