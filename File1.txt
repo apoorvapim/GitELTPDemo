@@ -7,7 +7,7 @@ Change2 :–> commit with message as “Change2 in File1”
 
 Added line of code to fix the bug.
 
-Change 3 :- change by teammate 
+Change 3 :-> change by teammate 
 
-Change :-> to work on CR1 and added > sign
+Change 4 :-> to work on CR1 and added > sign
 
