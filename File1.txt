@@ -1,7 +1,9 @@
 Helooo world
 
-Change1 – commit with message as “Change1 in File1”
+Change1 :– commit with message as “Change1 in File1”
 
-Change2 – commit with message as “Change2 in File1”
+Change2 :– commit with message as “Change2 in File1”
 
 Added line of code to fix the bug.
+
+Change 3 :- change by teammate 
