@@ -1,5 +1,7 @@
 Hello World
 
-WI1 with modified changes
+WI1 With Modified Changes (Changes made: Capitalized)
 
-Change: change to test rebase conflict CR2
+Change 1: WI6: on local master
+
+WI6: File updated to make first letter capital to test rebase
